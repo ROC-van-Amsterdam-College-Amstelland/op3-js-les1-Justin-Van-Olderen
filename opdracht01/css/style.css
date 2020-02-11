@@ -25,3 +25,21 @@ body, html{
     font-size: 20px;
 }
 
+#Buttons{
+display: flex;
+flex-direction: column;
+width: 120px;
+margin-top: 90px;
+}
+
+/* #light-top{
+background-color: red;
+}
+
+#light-middle{
+background-color: orange;
+}
+
+#light-bottom{
+background-color: green;
+} */
